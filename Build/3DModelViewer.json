@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Egg",
+"dataUrl": "3DModelViewer.data.unityweb",
+"wasmCodeUrl": "3DModelViewer.wasm.code.unityweb",
+"wasmFrameworkUrl": "3DModelViewer.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
